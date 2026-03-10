@@ -12,7 +12,7 @@ They are not the graceful, willowy creatures of the great forests. They are not 
 
 Rasenberg has no army. It has **Wardens**.
 
-The Wardens are an order as old as the hills themselves — part ranger, part scholar, part holy sentinel. They patrol the borders, maintain the ancient markers, and guard the knowledge stored in the deep libraries carved into the bedrock beneath the largest hill, **Aethelhyrst** — the Scholar's Rest. They answer to a council of elders, not a king. Their authority comes not from blood or conquest, but from oath and duty.
+The Wardens are an order as old as the hills themselves — part border-guard, part scholar, part holy sentinel. They patrol the borders, maintain the ancient markers, and guard the knowledge stored in the deep libraries carved into the bedrock beneath the largest hill, **Aethelhyrst** — the Scholar's Rest. They answer to a council of elders, not a king. Their authority comes not from blood or conquest, but from oath and duty.
 
 It is a quiet place. A forgotten place.
 
