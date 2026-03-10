@@ -76,11 +76,13 @@ There was not, in most people's experience, a difference.
 
 His mother tried to teach him diplomacy. It didn't take. "You have your father's tongue," she said, which was not a compliment. "You say true things in the worst possible way."
 
-Aelindra herself was sharp-tongued, but she had charm to soften it — a warmth, a wink, a way of making the sting feel like affection. Rafyl had none of that. He stated facts like he was reading them from a stone tablet, and he could not understand why people found this hurtful. His charisma was, by elven standards, underwhelming. He was not unlikeable — people respected his knowledge and his willingness to help — but he was exhausting to talk to for more than a few minutes.
+Aelindra herself was sharp-tongued, but she had charm to soften it — a warmth, a wink, a way of making the sting feel like affection. Rafyl had a different kind of social grace — not charm, exactly, but a genuine willingness to hear people out. He would sit with someone for an hour, listening patiently to every side of an argument, weighing each point with the care of a scholar parsing a difficult text. People appreciated that. It made them feel heard. And then he would deliver his conclusion with all the tact of a stone tablet falling on their heads, and whatever goodwill he had built would evaporate in an instant.
+
+It was maddening, because he was not unkind. He simply could not see the gap between understanding someone's position and telling them — plainly, directly, in front of others — why that position was wrong.
 
 "Logic," he would say when challenged. "Emotions must not cloud our logical thinking."
 
-He believed this absolutely. It was his north star, his organizing principle. And it made him very good at scholarship and very bad at friendship.
+He believed this absolutely. It was his north star, his organizing principle. And it made him very good at scholarship and difficult to befriend.
 
 ---
 
@@ -105,6 +107,8 @@ Maethor, who had lived long enough to know better, just smiled.
 But there was something else — something Rafyl would not have admitted, because admitting it would have meant acknowledging a feeling rather than a thought. In the deep hours of the night, alone in the archives, reading by lamplight while the phosphorescent moss hummed above him, Rafyl sometimes felt a **presence**. Not a voice. Not a vision. A weight. A warmth. The sense that something vast was watching — not with judgment, but with patience. As if the source of all things had noticed him and was waiting to see what he would do.
 
 He never spoke of this. But it was real, and it changed him.
+
+There was one other thing the faith gave him, though he would not have connected it to Aen at the time. The elves of Rasenberg carried in their blood what the old texts called **Fey Ancestry** — a resistance to the enchantments and mental manipulations that lesser beings fell prey to. Charms slid off Rafyl's mind like water off stone. No spell could put him to sleep. In a community where this was simply normal — all Rasenberg elves shared the trait — no one remarked on it. But Rafyl, who had read the Chronicle's descriptions of the *Ithren Vel* and its methods of influence and deception, would one day come to see this inheritance as something more than biological luck. It was armor. And he would need it.
 
 ---
 
@@ -146,7 +150,7 @@ This was the fracture that would define him. A man whose core ideal was logic an
 
 Rafyl threw himself into the archives with a fury that worried Maethor.
 
-He was looking for something specific now. Every reference to the *Ithren Vel*. Every passage about the Quiet Corruption. He cross-referenced inscriptions from dozens of stone markers, reconstructing the defaced passages from fragments and parallel texts. He barely slept — though, being an elf, he didn't need much. Four hours of trance per night, and he was back at his desk, ink-stained and red-eyed and relentless.
+He was looking for something specific now. Every reference to the *Ithren Vel*. Every passage about the Quiet Corruption. He cross-referenced inscriptions from dozens of stone markers, reconstructing the defaced passages from fragments and parallel texts. He cut his trances short — three hours, sometimes two, pushing the limits of what even an elven body could sustain. Then he was back at his desk, ink-stained and hollow-eyed and relentless.
 
 What he pieced together disturbed him.
 
@@ -238,7 +242,7 @@ The council was divided. Some called him reckless. Some called him brave. Elder 
 
 The council granted Rafyl the title of **Highwarden** — a rank not bestowed in living memory, reserved for Wardens who carried their duty beyond the borders of Rasenberg. It was part honor, part formality, and part the council's way of saying: *We cannot stop you, so we will at least make it official.*
 
-At forty-two years old — barely an adult by elven reckoning, younger than any Warden who had ever held the title — Rafyl the Highwarden walked down the western slope of Aethelhyrst, through the tall grass, past the ancient stone markers, and into the wider world.
+At forty-two years old — still an adolescent by elven reckoning, younger than any Warden who had ever held the title — Rafyl the Highwarden walked down the western slope of Aethelhyrst, through the tall grass, past the ancient stone markers, and into the wider world.
 
 He carried a longsword on his hip, a shield on his back, six javelins in a quiver, a holy symbol around his neck, and the most dangerous book in Rasenberg wrapped in oiled cloth in his pack.
 
@@ -250,9 +254,9 @@ The wind followed him down the hill, and did not stop.
 
 Now Rafyl moves through a world he has only read about.
 
-To those who meet him, he is an oddity. An elf who looks more like a human soldier — six foot six, two hundred and forty-five pounds, brown-haired and green-eyed, with light skin weathered by hill-wind. He wears a scholar's robe over chain mail. He speaks Common with a formal precision that sounds archaic, and Elvish with an accent that makes city elves wince. He will patiently explain anything to anyone, whether they want him to or not. He will tell you that you are wrong with the same tone he would use to tell you the time. He does not understand why this bothers people, and his attempts to understand only make it worse.
+To those who meet him, he is an oddity. An elf who looks more like a human soldier — six foot six, two hundred and forty-five pounds, brown-haired and green-eyed, with light skin weathered by hill-wind. He wears a scholar's robe over chain mail. He speaks Common with a formal precision that sounds archaic, and Elvish with an accent that makes city elves wince. He will patiently explain anything to anyone, whether they want him to or not. He will listen to your argument with genuine patience — hear every point, consider every angle — and then tell you that you are wrong with the same tone he would use to tell you the time. He does not understand why this bothers people, and his attempts to understand only make it worse.
 
-He is not charming. He is not diplomatic. He is not fast or graceful or subtle.
+He is not diplomatic. He is not fast or graceful or subtle.
 
 But he is **honest**. Relentlessly, sometimes painfully honest. And in a world where the *Ithren Vel* — the Quiet Corruption — works through lies and manipulation, honesty is its own kind of weapon.
 
