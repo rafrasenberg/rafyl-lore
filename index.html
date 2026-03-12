@@ -58,6 +58,7 @@
     z-index: 1;
   }
 
+  .hero-image video,
   .hero-image img {
     width: 100%;
     height: 100%;
@@ -445,6 +446,117 @@
 
   .toc a:hover { color: var(--gold-light); }
 
+  /* === CHARACTER PORTRAIT === */
+  .portrait-section {
+    position: relative;
+    margin: 5rem auto;
+    max-width: 520px;
+    opacity: 0;
+    transform: translateY(40px) scale(0.95);
+    transition: opacity 1.2s ease, transform 1.2s ease;
+  }
+
+  .portrait-section.visible {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+
+  .portrait-frame {
+    position: relative;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow:
+      0 0 60px rgba(201,168,76,0.25),
+      0 0 120px rgba(201,168,76,0.1),
+      0 30px 80px rgba(0,0,0,0.6);
+  }
+
+  .portrait-frame::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    border: 2px solid rgba(201,168,76,0.4);
+    border-radius: 8px;
+    z-index: 2;
+    pointer-events: none;
+  }
+
+  .portrait-frame::after {
+    content: '';
+    position: absolute;
+    inset: -2px;
+    background: conic-gradient(
+      from 0deg,
+      transparent 0%,
+      rgba(201,168,76,0.6) 10%,
+      transparent 20%,
+      transparent 50%,
+      rgba(201,168,76,0.6) 60%,
+      transparent 70%
+    );
+    border-radius: 10px;
+    z-index: -1;
+    animation: portraitGlow 8s linear infinite;
+  }
+
+  @keyframes portraitGlow {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+
+  .portrait-frame img {
+    display: block;
+    width: 100%;
+    height: auto;
+    filter: sepia(0.1) contrast(1.05);
+    transition: filter 0.6s ease, transform 0.6s ease;
+  }
+
+  .portrait-frame:hover img {
+    filter: sepia(0) contrast(1.1) brightness(1.05);
+    transform: scale(1.02);
+  }
+
+  .portrait-shimmer {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      105deg,
+      transparent 40%,
+      rgba(201,168,76,0.08) 45%,
+      rgba(201,168,76,0.15) 50%,
+      rgba(201,168,76,0.08) 55%,
+      transparent 60%
+    );
+    background-size: 200% 100%;
+    animation: shimmer 4s ease-in-out infinite;
+    z-index: 1;
+    pointer-events: none;
+  }
+
+  @keyframes shimmer {
+    0%, 100% { background-position: 200% 0; }
+    50% { background-position: -200% 0; }
+  }
+
+  .portrait-caption {
+    text-align: center;
+    margin-top: 1.5rem;
+    font-family: 'Cinzel', serif;
+    font-size: clamp(0.75rem, 1.5vw, 0.9rem);
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: var(--gold-dark);
+    opacity: 0;
+    transform: translateY(10px);
+    transition: opacity 0.8s ease 0.6s, transform 0.8s ease 0.6s;
+  }
+
+  .portrait-section.visible .portrait-caption {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
   /* === RESPONSIVE === */
   @media (max-width: 600px) {
     .content-wrap { padding: 4rem 1.25rem 6rem; }
@@ -469,7 +581,10 @@
 <!-- ===== HERO ===== -->
 <section class="hero">
   <div class="hero-image">
-    <img src="rafyl.png" alt="Rafyl the Highwarden standing on a grassy hill, glowing sword raised against a stormy sky">
+    <video autoplay muted loop playsinline poster="rafyl.png">
+      <source src="rafyl.mp4" type="video/mp4">
+      <img src="rafyl.png" alt="Rafyl the Highwarden">
+    </video>
   </div>
   <div class="hero-bg"></div>
   <div class="hero-content">
@@ -557,6 +672,15 @@
         <dt>Languages</dt><dd>Common, Elvish, Primordial</dd>
         <dt>Senses</dt><dd>Darkvision 60 ft.</dd>
       </div>
+    </div>
+
+    <!-- CHARACTER PORTRAIT -->
+    <div class="portrait-section" data-reveal>
+      <div class="portrait-frame">
+        <img src="rafyl.png" alt="Rafyl the Highwarden — elf paladin in scholar's robes over chain mail, holy symbol at his chest, standing among the grassy hills of Rasenberg">
+        <div class="portrait-shimmer"></div>
+      </div>
+      <p class="portrait-caption">Rafyl the Highwarden &mdash; Warden of Rasenberg</p>
     </div>
 
     <div class="ornament">&mdash; &loz; &mdash;</div>
@@ -982,7 +1106,7 @@
     });
   }, { threshold: 0.1, rootMargin: '0px 0px -50px 0px' });
 
-  document.querySelectorAll('.chapter').forEach(ch => observer.observe(ch));
+  document.querySelectorAll('[data-reveal]').forEach(el => observer.observe(el));
 </script>
 </body>
 </html>
