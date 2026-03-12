@@ -20,13 +20,15 @@ And that is exactly how the Wardens want it.
 
 ---
 
-## II. The House of Thandril
+## II. The House of Kael Vordrath
 
-Rafyl was born in a low-roofed stone house on the western slope of Aethelhyrst, the eldest child of **Thandril** and **Aelindra**.
+Rafyl was born in a low-roofed stone house on the western slope of Aethelhyrst, the eldest child of **Kael Vordrath** and **Aelindra**.
 
-**Thandril** was a Warden — one of twelve who served at any given time. A serious, silent elf who stood nearly six and a half feet tall and carried himself like a man perpetually bracing against a storm. He was not a warrior of great renown. He was a patrolman, a border-walker, a man who spent weeks at a time alone in the hills checking the ancient markers for signs of weathering or tampering. He spoke little, read much, and believed — with a conviction that bordered on obsession — that the old knowledge carved into the stones was not myth or poetry but **literal truth**. The stones, he told his children, were warnings left by beings who understood forces that modern minds had forgotten. He was respected by the other Wardens but considered eccentric by the wider community. "Thandril talks to stones," the village wives would say, not unkindly.
+**Kael Vordrath** was a Warden — one of twelve who served at any given time. A serious, silent elf who stood nearly six and a half feet tall and carried himself like a man perpetually bracing against a storm. He was not a warrior of great renown. He was a patrolman, a border-walker, a man who spent weeks at a time alone in the hills checking the ancient markers for signs of weathering or tampering. He spoke little, read much, and believed — with a conviction that bordered on obsession — that the old knowledge carved into the stones was not myth or poetry but **literal truth**. The stones, he told his children, were warnings left by beings who understood forces that modern minds had forgotten. He was respected by the other Wardens but considered eccentric by the wider community. "Vordrath talks to stones," the village wives would say, not unkindly.
 
-**Aelindra** was the opposite. She was a healer — practical, warm, sharp-tongued, and impatient with anything she considered nonsense. She came from a farming family in the southern valleys and had married Thandril against her parents' wishes. ("You're wedding a man who loves rocks more than people," her mother had said. She was not entirely wrong.) Aelindra ran the household, tended the sick, and kept the family fed while Thandril wandered the ridgelines. She was beloved in the community. Where Thandril was distant, Aelindra was present — always at someone's door with a poultice or a pot of stew, always ready with a cutting remark that somehow left people laughing instead of offended.
+The name itself was a curiosity. Every elf in Rasenberg carried names that flowed like water over river-stones — Aelindra, Sylwen, Calathis, Maethor. **Kael Vordrath** sounded like something forged rather than given. Hard consonants. Guttural weight. It did not sound like the Grassy Hills. It sounded older, and from somewhere else entirely. When asked about it, Kael Vordrath would simply say his family had always carried the name. When pressed, he would stop answering. Aelindra once told Rafyl, late at night and with an uncharacteristic hesitation, that his father had arrived in Rasenberg as a young elf — alone, carrying nothing but a worn satchel of old texts and a knowledge of Primordial that startled the elders. Where he had come from before that, he never said. And Aelindra, who loved him with clear eyes, had decided long ago that whatever he had left behind, he had left behind for a reason. She did not ask. He did not tell. It was the one silence in their marriage that neither of them broke.
+
+**Aelindra** was the opposite. She was a healer — practical, warm, sharp-tongued, and impatient with anything she considered nonsense. She came from a farming family in the southern valleys and had married Kael Vordrath against her parents' wishes. ("You're wedding a man who loves rocks more than people," her mother had said. She was not entirely wrong.) Aelindra ran the household, tended the sick, and kept the family fed while Kael Vordrath wandered the ridgelines. She was beloved in the community. Where Kael Vordrath was distant, Aelindra was present — always at someone's door with a poultice or a pot of stew, always ready with a cutting remark that somehow left people laughing instead of offended.
 
 Rafyl had one sibling: a younger sister named **Sylwen**, born six years after him. Where Rafyl was large and serious even as a child, Sylwen was quick, small, and mischievous. She would grow up to be a goatherd in the southern valleys, content with a simple life — everything Rafyl was not.
 
@@ -50,7 +52,7 @@ The second gift was his **strength**. What Rafyl lacked in grace, he made up for
 
 His mother saw these gifts clearly. "You have your father's mind and a body the hills built for you," she told him. "Use both, or you'll waste both."
 
-His father said less, but what he said stuck harder. One evening, when Rafyl was perhaps twenty-five, Thandril returned from a long patrol and found his son reading a Primordial text by lamplight. He stood in the doorway for a long moment, then said: "The truth doesn't care if you're graceful, boy. It only cares if you're strong enough to carry it."
+His father said less, but what he said stuck harder. One evening, when Rafyl was perhaps twenty-five, Kael Vordrath returned from a long patrol and found his son reading a Primordial text by lamplight. He stood in the doorway for a long moment, then said: "The truth doesn't care if you're graceful, boy. It only cares if you're strong enough to carry it."
 
 Rafyl never forgot that.
 
@@ -108,19 +110,19 @@ But there was something else — something Rafyl would not have admitted, becaus
 
 He never spoke of this. But it was real, and it changed him.
 
-There was one other thing the faith gave him, though he would not have connected it to Aen at the time. The elves of Rasenberg carried in their blood what the old texts called **Fey Ancestry** — a resistance to the enchantments and mental manipulations that lesser beings fell prey to. Charms slid off Rafyl's mind like water off stone. No spell could put him to sleep. In a community where this was simply normal — all Rasenberg elves shared the trait — no one remarked on it. But Rafyl, who had read the Chronicle's descriptions of the *Ithren Vel* and its methods of influence and deception, would one day come to see this inheritance as something more than biological luck. It was armor. And he would need it.
+There was one other thing the faith gave him, though he would not have connected it to Aen at the time. The elves of Rasenberg carried in their blood what the old texts called **Fey Ancestry** — a resistance to the enchantments and mental manipulations that lesser beings fell prey to. Charms slid off Rafyl's mind like water off stone. No spell could put him to sleep. In a community where this was simply normal — all Rasenberg elves shared the trait — no one remarked on it. But Rafyl, who had already encountered scattered references to the *Ithren Vel* in the archives — and who would later read far darker accounts of its methods — would one day come to see this inheritance as something more than biological luck. It was armor. And he would need it.
 
 ---
 
-## VI. The Death of Thandril
+## VI. The Disappearance of Kael Vordrath
 
 When Rafyl was thirty-seven, his father did not return from a patrol.
 
-Search parties found Thandril's body on the far western ridge, near a cluster of ancient markers that had been **defaced**. The Primordial inscriptions had been chiseled away — not by weather, but by tools. Thandril had been killed by a blade. Not an animal. Not a fall. A deliberate, precise wound through the chest.
+Search parties scoured the far western ridge for weeks. They found his patrol gear scattered near a cluster of ancient markers that had been **defaced** — the Primordial inscriptions chiseled away, not by weather, but by tools. There were signs of a struggle. Blood on the stones. But of Kael Vordrath himself, there was no trace.
 
-There were no tracks. No witnesses. No explanation.
+They never recovered his body.
 
-The council investigated for months and found nothing. The official conclusion was that Thandril had encountered bandits — human raiders from the lowlands who sometimes strayed into the hills. Case closed.
+The terrain beyond the western ridge was harsh and unforgiving — sheer ravines, ice-locked passes, and winds that could strip flesh from bone. The council concluded that Kael Vordrath had encountered bandits — human raiders from the lowlands who sometimes strayed into the hills — and that his remains had been lost to the merciless landscape. Presumed dead. Case closed.
 
 Rafyl did not accept this.
 
@@ -130,13 +132,19 @@ Bandits didn't read Primordial.
 
 Rafyl brought his findings to the council. The elders listened. Then they told him, gently, that grief was clouding his judgment. That he was seeing patterns where there were none. That he should mourn his father and return to his studies.
 
-"Logic," Rafyl said, his voice tight with something he refused to call anger. "Emotions must not cloud our logical thinking. I am not grieving. I am reading evidence. And the evidence says my father was murdered by someone who wanted specific knowledge destroyed."
+"Logic," Rafyl said, his voice tight with something he refused to call anger. "Emotions must not cloud our logical thinking. I am not grieving. I am reading evidence. And the evidence says my father was taken by someone who wanted specific knowledge destroyed."
 
 The council did not change its conclusion.
+
+Only one elder broke rank. After the session, Calathis found Rafyl in the corridor and gripped his arm. The old Warden's face was tight. "You are not wrong," he said, quietly enough that the stone walls would not carry it. "But being right and being heard are not the same thing. They are afraid, boy. And afraid men do not follow evidence — they bury it." Then he let go and walked away, and never spoke of it again.
+
+It was worse than unanimous dismissal. It meant they *knew*.
 
 Rafyl never forgave them for that.
 
 And something shifted in him. The institutions he had trusted — the council, the elder Wardens, the careful hierarchies of Rasenberg — had failed. They had chosen comfort over truth. They had looked at evidence and decided it was easier to ignore it than to face what it meant.
+
+There was something else, too — something harder to name. In the weeks after the disappearance, Rafyl would catch himself scanning the ridgeline at dusk, half-expecting to see his father's silhouette against the sky. No body meant no proof. No proof meant — logically, infuriatingly — that Kael Vordrath might still be alive. Captive. Lost. Hiding. The thought was a splinter he could not pull out. Hope, he told himself, was not a logical position without evidence. But the absence of a body *was* evidence, and his own framework would not let him ignore it. So the grief sat unfinished in his chest, half mourning and half waiting, and he could resolve neither.
 
 If the structures meant to protect truth could not be trusted to pursue it, then what good were they?
 
@@ -164,11 +172,11 @@ He asked Maethor about it.
 
 The old archivist went pale. "That chamber is sealed for a reason, boy."
 
-"My father was killed for a reason too."
+"My father disappeared for a reason too."
 
 Maethor said nothing for a long time. Then: "If you open that chamber, you cannot unread what is inside. And the knowledge will make you a target."
 
-"I'm already looking for whoever killed my father. I'm already a target."
+"I'm already looking for whoever took my father. I'm already a target."
 
 Maethor gave him the key. Not with approval. With resignation.
 
@@ -226,7 +234,9 @@ He also prepared his kit with the methodical thoroughness of a scholar planning 
 
 He said goodbye to his mother and his sister.
 
-Aelindra did not cry. She held his face in her hands and said: "You are exactly like your father. And I mean that as both a compliment and a warning." Then she pressed a pouch of **gold** into his hand — thirty-eight coins, the family's savings — and told him to eat properly.
+Aelindra did not cry. She held his face in her hands and said: "You are exactly like your father. And I mean that as both a compliment and a warning." She paused, and something flickered behind her eyes — the same question that lived in Rafyl's chest, unasked and unanswered. Then she pressed a pouch of **gold** into his hand — thirty-eight coins, the family's savings — and told him to eat properly. At the door, she added, almost carelessly: "If you find anything out there... about anything... you send word."
+
+She did not say what she meant. She did not need to.
 
 Sylwen punched him in the arm and told him not to get killed.
 
@@ -236,7 +246,7 @@ Sylwen punched him in the arm and told him not to get killed.
 
 Rafyl stood before the council one final time.
 
-He told them what he had read. He told them what he believed. He told them he was leaving Rasenberg to pursue the truth his father had died for.
+He told them what he had read. He told them what he believed. He told them he was leaving Rasenberg to pursue the truth his father had vanished for.
 
 The council was divided. Some called him reckless. Some called him brave. Elder Calathis — the same Warden who had failed to answer his childhood questions — simply nodded. "Your father would be proud," he said. "And terrified."
 
@@ -266,11 +276,15 @@ He heals the wounded with a touch. He fights when he must — without elegance, 
 
 He is hunting something. He does not yet know its face.
 
-But he knows it killed his father. He knows it is older than nations. And he knows that somewhere, in the margins of the world, it is still at work.
+But he knows it took his father. He knows it is older than nations. And he knows that somewhere, in the margins of the world, it is still at work.
 
-And the Highwarden will find it.
+And sometimes — in the deep quiet of his trance, when his defenses are low and logic loosens its grip — he allows himself one thought he would never speak aloud: *What if he is still alive?*
+
+The Highwarden will find the truth. Whatever it is. Wherever it leads.
+
+Even if the truth has his father's face.
 
 ---
 
 *"The truth doesn't care if you're graceful, boy. It only cares if you're strong enough to carry it."*
-*— Thandril of Rasenberg, to his son*
+*— Kael Vordrath of Rasenberg, to his son*
